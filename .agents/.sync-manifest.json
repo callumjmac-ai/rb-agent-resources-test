@@ -1,9 +1,15 @@
 {
   "source_repo": "runna-app/rb-agent-resources",
-  "source_commit": "test123abc",
-  "synced_at": "2026-04-23T13:20:24Z",
+  "source_commit": "abc123def",
+  "synced_at": "2026-04-23T14:15:05Z",
   "managed_resources": [
     "context/repo-map.md",
+    "skills/getting-activities",
+    "skills/getting-briefings",
+    "skills/getting-insights",
+    "skills/getting-user-profile",
+    "skills/getting-weather",
+    "skills/getting-workouts",
     "skills/reviewing-prs"
   ]
 }
