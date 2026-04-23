@@ -1,0 +1,9 @@
+{
+  "source_repo": "runna-app/rb-agent-resources",
+  "source_commit": "test123abc",
+  "synced_at": "2026-04-23T13:20:24Z",
+  "managed_resources": [
+    "context/repo-map.md",
+    "skills/reviewing-prs"
+  ]
+}
