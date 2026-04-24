@@ -1,7 +1,7 @@
 {
   "source_repo": "runna-app/rb-agent-resources",
-  "source_commit": "955ecd83bac1cf025fd2b97779bc4200132ef8d3",
-  "synced_at": "2026-04-24T09:25:14Z",
+  "source_commit": "0bc4876446483937a0bc436306b9ea4cf86fc130",
+  "synced_at": "2026-04-24T15:04:55Z",
   "managed_resources": [
     "rules/aws.md",
     "rules/python.md",
