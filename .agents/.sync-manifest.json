@@ -1,16 +1,16 @@
 {
   "source_repo": "runna-app/rb-agent-resources",
-  "source_commit": "0bc4876446483937a0bc436306b9ea4cf86fc130",
-  "synced_at": "2026-04-24T15:09:35Z",
+  "source_commit": "cfb6b222a17524e9b22ffa84a485d24af2c0e00b",
+  "synced_at": "2026-04-30T14:08:48Z",
   "managed_resources": [
     "rules/aws.md",
     "rules/python.md",
     "skills/getting-activities",
     "skills/getting-briefings",
     "skills/getting-insights",
+    "skills/getting-order-plan",
     "skills/getting-user-profile",
     "skills/getting-weather",
-    "skills/getting-workouts",
-    "skills/reviewing-prs"
+    "skills/getting-workouts"
   ]
 }
